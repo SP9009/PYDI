@@ -1,0 +1,22 @@
+git init 
+
+touch sss  (create a file)
+
+git add sss (add file in local)
+
+git commit -m sss (commit the file in local)
+
+git config --global user.email "pydi0099@gmail.com"          (config your git account)
+
+git remote add origin https://github.com/SP9009/PYDI.git     (add origin to the remote github )
+
+git push -u origin master                                    (push the data from local to remote repo which is commited in local)
+
+
+=========================================================================================================================================
+
+
+
+  
+   
+
